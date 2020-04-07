@@ -1,0 +1,91 @@
+/* Generali */
+body  {
+  background-image: url(../img/sfondo.jfif);
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: white;
+  width: 50%;
+  margin: 0px auto;
+  font-size: 25px;
+  }
+
+  hr {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+/* fine generali */
+
+/* Header */
+.header img {
+  height: 100px;
+  vertical-align: middle;
+}
+/* fine header */
+
+/* sezione ricerca */
+.ricerca span {
+  display: inline-block;
+  text-align: center;
+  background-color: orange;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+
+.ricerca p {
+  line-height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* fine sezione ricerca */
+
+/* sezione messaggi */
+.messaggi {
+  font-size: 15px;
+  color: grey;
+  margin-top: 6px;
+  margin-bottom: 6px;
+}
+
+.messaggi-bold {
+  color: black;
+  font-weight: bold;
+}
+
+.messaggi-grigio {
+  background-color: #d3d3d3;
+  border: 1px solid black;
+  height: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+
+}
+
+#messaggi-bianco {
+  background-color: white;
+  border: 1px solid black;
+  height: 20px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+/* fine sezione messaggi */
+
+/* footer */
+.footer {
+  text-align: center;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.footer span {
+  font-size: 15px;
+  font-style: italic;
+}
+
+#footer-gmail {
+  font-size: 25px;
+  font-style: normal;
+}
+
+/* fine footer */
